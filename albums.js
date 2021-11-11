@@ -1,7 +1,7 @@
 
 const albumsData = [
     {
-        albumId: "7",
+        albumId: "1",
         artistName: "Tangerine Dream",
         collectionName: "Rubycon",
         artworkUrl100:
@@ -21,7 +21,7 @@ const albumsData = [
         url: "https://www.youtube.com/embed/qiLt2eIR7xc?rel=0&amp;controls=0&amp;showinfo=0",
     },
     {
-        albumId: "324",
+        albumId: "3",
         artistName: "Philip Glass",
         collectionName: "Glassworks",
         artworkUrl100:
@@ -31,7 +31,7 @@ const albumsData = [
         url: "https://www.youtube.com/embed/6Stu7h7Qup8?rel=0&amp;controls=0&amp;showinfo=0",
     },
     {
-        albumId: "61244",
+        albumId: "4",
         artistName: "Radikal Guru",
         collectionName: "Subcouncious",
         artworkUrl100:
@@ -41,7 +41,7 @@ const albumsData = [
         url: "https://www.youtube.com/embed/jOpHKM-ruDw?rel=0&amp;controls=0&amp;showinfo=0",
     },
     {
-        albumId: "10",
+        albumId: "5",
         artistName: "Beyoncé",
         collectionName: "Lemonade",
         artworkUrl100:
@@ -51,7 +51,7 @@ const albumsData = [
         url: "https://www.youtube.com/embed/PeonBmeFR8o?rel=0&amp;controls=0&amp;showinfo=0",
     },
     {
-        albumId: "11",
+        albumId: "6",
         artistName: "Beyoncé",
         collectionName: "Dangerously In Love",
         artworkUrl100:
